@@ -18,7 +18,7 @@ body {
 .hero {
   width: 100%;
   height: 100vh;
-  background: url(./Media/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.avif);
+  background: url(./Media/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.webp);
   background-size: cover;
   background-position: center;
   padding: 10px;
@@ -199,37 +199,37 @@ body {
 }
 
 .image1{
-  background-image: url(./Media/photo-1502161254066-6c74afbf07aa.avif);
+  background-image: url(./Media/photo-1502161254066-6c74afbf07aa.webp);
   background-size: cover;
   background-position: center;
 }
 .image2{
-  background-image: url(./Media/photo-1617654112368-307921291f42.avif);
+  background-image: url(./Media/photo-1617654112368-307921291f42.webp);
   background-size: cover;
   background-position: center;
 }
 .image3{
-  background-image: url(./Media/photo-1541716632448-6e56f26306d7.avif);
+  background-image: url(./Media/photo-1541716632448-6e56f26306d7.webp);
   background-size: cover;
   background-position: center;
 }
 .image4{
-  background-image: url(./Media/photo-1519245659620-e859806a8d3b.avif);
+  background-image: url(./Media/photo-1519245659620-e859806a8d3b.webp);
   background-size: cover;
   background-position: center;
 }
 .image5{
-  background-image: url(./Media/photo-1576074436157-6555fe967d80.avif);
+  background-image: url(./Media/photo-1576074436157-6555fe967d80.webp);
   background-size: cover;
   background-position: center;
 }
 .image6{
-  background-image: url(./Media/photo-1577473404054-cbdf6c62ebaa.avif);
+  background-image: url(./Media/photo-1577473404054-cbdf6c62ebaa.webp);
   background-size: cover;
   background-position: center;
 }
 .image7{
-  background-image: url(./Media/photo-1617814065893-00757125efab.avif);
+  background-image: url(./Media/photo-1617814065893-00757125efab.webp);
   background-size: cover;
   background-position: center;
 }
